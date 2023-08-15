@@ -4,7 +4,8 @@ public class PushtoGit {
 	
 	private void success() {
 
-		System.out.println("main");
+		System.out.println("mains");
+		System.out.println("mainsmains");
 	}
 
 }
